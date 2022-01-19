@@ -1,0 +1,138 @@
+---------------------------------------------- 
+Doing tracert at 07/01/2022, 10:58:19.05 
+
+Tracing route to star-mini.c10r.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     5 ms  192.168.39.2 
+  2     7 ms     7 ms     5 ms  192.168.180.1 
+  3     7 ms     4 ms     6 ms  192.168.207.69 
+  4     5 ms     6 ms     7 ms  192.168.205.6 
+  5     *        *        *     Request timed out.
+  6    10 ms     3 ms     4 ms  41.75.83.137 
+  7     9 ms    15 ms     7 ms  154.113.144.2 
+  8     5 ms     7 ms     7 ms  10.0.100.29 
+  9     7 ms     6 ms     5 ms  ae5.pr04.los1.tfbnw.net [157.240.73.230] 
+ 10     *        *        *     Request timed out.
+ 11     7 ms     6 ms     6 ms  157.240.38.191 
+ 12     6 ms     6 ms     5 ms  edge-star-mini-shv-01-los2.facebook.com [102.132.101.35] 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 07/01/2022, 11:16:00.96 
+
+Tracing route to star-mini.c10r.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  192.168.39.2 
+  2     3 ms     4 ms     3 ms  192.168.180.1 
+  3    10 ms    10 ms     6 ms  192.168.207.69 
+  4     4 ms     2 ms     3 ms  192.168.205.6 
+  5     *        *        *     Request timed out.
+  6     5 ms     4 ms     3 ms  41.75.83.137 
+  7     4 ms     4 ms     5 ms  154.113.144.2 
+  8     6 ms     4 ms     5 ms  10.0.100.29 
+  9     4 ms     4 ms     5 ms  ae5.pr04.los1.tfbnw.net [157.240.73.230] 
+ 10     *        *        5 ms  po104.psw03.los2.tfbnw.net [129.134.44.213] 
+ 11     4 ms     4 ms     4 ms  157.240.38.191 
+ 12     4 ms     5 ms     6 ms  edge-star-mini-shv-01-los2.facebook.com [102.132.101.35] 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 07/01/2022, 11:18:38.33 
+
+Tracing route to star-mini.c10r.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     4 ms     2 ms     2 ms  192.168.39.2 
+  2     3 ms     3 ms     3 ms  192.168.180.1 
+  3     3 ms     3 ms     3 ms  192.168.207.69 
+  4     3 ms     2 ms     2 ms  192.168.205.6 
+  5     *        *        *     Request timed out.
+  6     4 ms     3 ms     3 ms  41.75.83.137 
+  7     6 ms     5 ms     3 ms  154.113.144.2 
+  8     5 ms     4 ms     3 ms  10.0.100.29 
+  9     5 ms     6 ms     6 ms  ae5.pr04.los1.tfbnw.net [157.240.73.230] 
+ 10     4 ms     *        *     po104.psw03.los2.tfbnw.net [129.134.44.213] 
+ 11     6 ms     4 ms     3 ms  157.240.38.191 
+ 12     6 ms    15 ms     5 ms  edge-star-mini-shv-01-los2.facebook.com [102.132.101.35] 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 07/01/2022, 11:21:06.69 
+
+Tracing route to star-mini.c10r.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     4 ms     4 ms     2 ms  192.168.39.2 
+  2     4 ms     5 ms     4 ms  192.168.180.1 
+  3     2 ms     2 ms     2 ms  192.168.207.69 
+  4     2 ms     3 ms     2 ms  192.168.205.6 
+  5     6 ms     *        *     196.43.215.2 
+  6     8 ms     4 ms     4 ms  41.75.83.137 
+  7     5 ms     7 ms     7 ms  154.113.144.2 
+  8     6 ms     4 ms     4 ms  10.0.100.29 
+  9     5 ms     4 ms     4 ms  ae5.pr04.los1.tfbnw.net [157.240.73.230] 
+ 10     *        *        *     Request timed out.
+ 11     4 ms     4 ms     5 ms  157.240.38.191 
+ 12     5 ms     4 ms     4 ms  edge-star-mini-shv-01-los2.facebook.com [102.132.101.35] 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 17/01/2022, 22:12:44.57 
+
+Tracing route to www.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     3 ms     1 ms     1 ms  192.168.43.31 
+  2   153 ms   152 ms   204 ms  10.179.127.253 
+  3     *        *     2086 ms  172.24.240.34 
+  4   107 ms     *        *     172.24.240.92 
+  5   480 ms    29 ms   436 ms  172.24.240.138 
+  6    45 ms    45 ms    36 ms  157.240.82.110 
+  7    92 ms    48 ms    41 ms  129.134.36.23 
+  8    52 ms    24 ms    27 ms  157.240.38.185 
+  9    53 ms    34 ms    34 ms  102.132.101.35 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 17/01/2022, 22:16:55.25 
+
+Tracing route to www.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1    13 ms    35 ms     6 ms  192.168.43.31 
+  2   148 ms   209 ms   217 ms  10.179.127.253 
+  3    36 ms    26 ms    47 ms  172.24.240.34 
+  4     *       45 ms     *     172.24.240.92 
+  5    89 ms    68 ms   134 ms  172.24.240.138 
+  6   140 ms    27 ms    36 ms  157.240.82.110 
+  7    40 ms   106 ms    95 ms  129.134.36.23 
+  8   140 ms    89 ms    36 ms  157.240.38.185 
+  9    86 ms    35 ms    99 ms  102.132.101.35 
+
+Trace complete.
+---------------------------------------------- 
+---------------------------------------------- 
+Doing tracert at 17/01/2022, 22:20:25.45 
+
+Tracing route to star-mini.c10r.facebook.com [102.132.101.35]
+over a maximum of 30 hops:
+
+  1     4 ms     1 ms     1 ms  192.168.43.31 
+  2   118 ms   201 ms   214 ms  10.179.127.253 
+  3    45 ms    23 ms    39 ms  172.24.240.34 
+  4     *        *      157 ms  172.24.240.92 
+  5   168 ms    25 ms   115 ms  172.24.240.138 
+  6   272 ms    72 ms    45 ms  157.240.82.110 
+  7    82 ms    40 ms    36 ms  129.134.36.23 
+  8   138 ms   102 ms    34 ms  157.240.38.185 
+  9    42 ms    24 ms    32 ms  102.132.101.35 
+
+Trace complete.
+---------------------------------------------- 
