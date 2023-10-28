@@ -20,7 +20,8 @@ with open('Google.txt', 'r') as file:
         #shoutout to https://feralpacket.org/?p=817 for the IPV4 regex below
         ipv4_regex = re.compile(r'''(?:(?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])\.){3}
                         (?:25[0-5]|2[0-4][0-9]|1[0-9][0-9]|[1-9]?[0-9])''', re.VERBOSE)
-
+           
+       #ipv4_regex = re.compile(r'\b(?:\d{1,3}\.){3}\d{1,3}\b') #Alternative, but simpler regex. 
         #searching for IPV4 address in the traceroute result
         ipv4_address = ipv4_regex.search(line)
 
